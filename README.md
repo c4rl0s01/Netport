@@ -16,11 +16,11 @@ You can specify the network mask, number of ports and OS detection.
 ```
 git clone github.com/c4rl0s01/Netport.git
 cd Netport
-chmod +x netpor.sh
+chmod +x netport.sh
 ```
 
 Example: 
 ```
-./netport -i IP -p PORTS -o
+./netport.sh -i IP -p PORTS -o
 ```
 
