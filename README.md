@@ -19,7 +19,7 @@ cd Netport
 chmod +x netport.sh
 ```
 
-Example: 
+### Example
 ```
 ./netport.sh -i IP -p PORTS -o
 ```
