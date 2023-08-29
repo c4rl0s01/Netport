@@ -133,8 +133,6 @@ if [ $# -eq 0 ]; then
 else
 	touch /tmp/list
 	
-	echo $ports
-	
 	if [ $devices_activated -eq 1 ]; then
 		devs=`calculate_devices $mask`
 	else
